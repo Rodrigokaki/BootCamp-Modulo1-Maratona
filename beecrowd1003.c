@@ -8,7 +8,7 @@ int main(){
 
     sum = num1 + num2;
 
-    printf("SOMA = %i\n", sum);
+    printf(" = %i\n", sum);
 
     return 0;
 }
